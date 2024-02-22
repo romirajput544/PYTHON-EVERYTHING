@@ -1,3 +1,3 @@
-from Hello_python import chai
+from hello_python import chai
 
 chai("ginger tea")
